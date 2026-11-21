@@ -1,6 +1,13 @@
 # NETWORKWALKS-B084-WEEK3-PASSWORD-CRACKING-USING-JTR
 *Password Cracking with John the Ripper and Networkwalks Tools.*
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![John the Ripper](https://img.shields.io/badge/Tool-John%20the%20Ripper-blue)
+![Networkwalks](https://img.shields.io/badge/Platform-Networkwalks-orange)
+![Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue)
+![Cybersecurity](https://img.shields.io/badge/Category-Cybersecurity-red)
+---
+
 ## 📌 Project Overview
 
 This practical focused on recovering passwords from three protected PDF files using John the Ripper (JTR), Johnny, and Networkwalks password-cracking tools. The exercise involved extracting password hashes, testing different wordlists, and performing dictionary attacks. After overcoming initial challenges with wordlist selection, all three files were successfully unlocked, providing hands-on experience in password cracking, hash extraction, and cybersecurity troubleshooting.
