@@ -111,6 +111,8 @@ John the Ripper successfully recovered the password for the first protected PDF 
 
 The practical also provided experience in configuring password-cracking tools, handling extracted hashes and verifying recovered passwords. It highlighted the importance of using strong and unpredictable passwords to protect sensitive documents.
 
+---
+
 
 ## 🔍 Part 2 – Password Cracking with Networkwalks Tools
 
@@ -153,3 +155,29 @@ The practical also provided experience in configuring password-cracking tools, h
 ### 4. Observation
 
 The Networkwalks tools successfully recovered the password after the initial attempt with the smaller dictionary proved unsuccessful. Using a larger wordlist improved the chances of finding the correct password. This practical demonstrated the importance of wordlist selection in dictionary attacks and provided additional experience in hash extraction and password recovery.
+
+## 💡 What I Learned
+
+### 1. Understanding Password Hashes
+I learned how password-protected PDF files use cryptographic mechanisms to verify passwords and how extracted hashes can be used for password recovery.
+
+### 2. Using John the Ripper
+I gained practical experience installing, configuring and using John the Ripper through its graphical interface, Johnny.
+
+### 3. The Importance of Wordlists
+I discovered that the size and quality of a wordlist can significantly affect the success of a dictionary attack.
+
+### 4. Hash Extraction and Password Recovery
+I learned how to extract password hashes from protected PDF files and use password-cracking tools to test candidate passwords.
+
+### 5. Troubleshooting
+I learned the importance of identifying problems, adjusting approaches and selecting suitable resources when an initial attempt fails.
+
+### 6. Password Security
+I understood why strong, unique and unpredictable passwords are important in protecting sensitive files against dictionary attacks.
+
+---
+
+## 📝 Conclusion
+
+This practical provided hands-on experience with password cracking using John the Ripper and Networkwalks tools. Through hash extraction, dictionary attacks and wordlist selection, I successfully recovered the passwords and unlocked the provided PDF files. The exercise improved my understanding of password security, practical tool usage and troubleshooting while highlighting the importance of strong passwords in protecting sensitive information.
